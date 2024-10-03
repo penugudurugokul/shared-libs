@@ -1,4 +1,4 @@
-def call (num1,num2)
+def call ("num1,num2")
 
  sum = num1 + num2
 
