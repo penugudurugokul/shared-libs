@@ -1,5 +1,4 @@
-def call ("num1,num2")
-
- sum = num1 + num2
-
-println "The sum of $num1 and $num2 is: $sum"
+def call(a,b){
+ result= a+b
+ echo " The sum of $a and $b is $result"
+}
